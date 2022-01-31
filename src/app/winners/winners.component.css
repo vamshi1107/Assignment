@@ -1,0 +1,23 @@
+.tablebody {
+  width: 60vw;
+  margin-right: auto;
+  margin-left: auto;
+    font-family: 'Noto Sans',
+    sans-serif;
+
+
+}
+
+.tablebody>table {
+  width: 100%;
+  border: 0.1px solid rgba(0, 0, 0, .12);
+    font-family: 'Noto Sans',
+    sans-serif;
+}
+
+.desc {
+  font-size: 1.6rem;
+  margin-left: -20px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}

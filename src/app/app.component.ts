@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'App';
+  ts=[""]
+
+  add(e:Event,value:string){
+    this.ts.push(value);
+  }
 }
